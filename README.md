@@ -1,5 +1,7 @@
 # Great-Attractor
 
+![](https://software-agenten.addpixel.net/static/great-attractor.svg)
+
 ## Usage
 
 Include the following snippet in the PHP file that you want to track. Naming your pages with `ga_init($page_name)` helps you filter for individual pages using the [GA-Analyzer](https://github.com/SoftwareAgenten/GA-Analyzer).
